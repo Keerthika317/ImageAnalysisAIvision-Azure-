@@ -1,0 +1,3 @@
+azure-ai-vision-imageanalysis
+streamlit
+pillow
